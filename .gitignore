@@ -163,3 +163,10 @@ cython_debug/
 ML/Data/adult.csv
 ML/Data/churn.csv
 ML/Data/winequality-red.csv
+ML/Data/airbnb.csv
+ML/Data/housing.csv
+ML/Data/housing.csv
+ML/Data/pokemon.csv
+ML/Data/segmented_customers.csv
+ML/Data/values_from_the_instrument.csv
+ML/Data/housing.csv
