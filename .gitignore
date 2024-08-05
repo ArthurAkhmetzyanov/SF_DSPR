@@ -172,3 +172,4 @@ ML/Data/values_from_the_instrument.csv
 ML/Data/housing.csv
 ML/Data/water_potability.csv
 Кеннеди Берман Основы Python for DS/Глава 5. Управление выполнением.ipynb
+*.csv
